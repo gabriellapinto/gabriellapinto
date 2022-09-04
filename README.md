@@ -1,7 +1,13 @@
-### Hi there 👋
+## Hey, I'm Gabby!! :)
 
-<!--
-**gabriellapinto/gabriellapinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm happy to see you here!
+
+I am a junior web developer student with a passion for design and front-end development!
+
+#### What I'm up to
+
+
+
 
 Here are some ideas to get you started:
 
