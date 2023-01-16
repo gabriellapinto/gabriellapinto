@@ -1,22 +1,15 @@
-## Hey, I'm Gabby!! :)
+## Hello, I'm Gabby! :)
 
 ### I'm happy to see you here!
 
-I am a junior web developer student with a passion for design and front-end development!
+I am a current student in a web development boot camp that is very passionate about front-end development!
 
-#### What I'm up to
+#### About Me:
 
+- 🔭 I’m currently working on: Prework Study Guide
+- 🌱 I’m currently learning: HTML 
+- 💬 Ask me about: My love for technology
+- 📫 How to reach me: Email (In My Bio)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Reading is a strong passion of mine!
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
