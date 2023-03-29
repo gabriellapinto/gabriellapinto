@@ -11,5 +11,5 @@ I am a current student in a web development boot camp that is very passionate ab
 - 💬 Ask me about: My love for technology
 - 📫 How to reach me: Email (In My Bio)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Reading is a strong passion of mine!
+- ⚡ Fun fact: My first coding experience was in Minecraft!
 
