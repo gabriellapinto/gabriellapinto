@@ -6,7 +6,7 @@ I am a current student in a web development boot camp that is very passionate ab
 
 #### About Me:
 
-- 🔭 I’m currently working on: Note Taker
+- 🔭 I’m currently working on: Nacho Mama's Cookbook
 - 🌱 I’m currently learning: Express.js
 - 💬 Ask me about: My love for technology
 - 📫 How to reach me: Email (In My Bio)
